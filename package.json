@@ -1,0 +1,15 @@
+{
+  "name": "prettier-config-bkpk",
+  "version": "0.0.1",
+  "description": "Bkpk prettier.js config",
+  "main": "index.js",
+  "scripts": {
+    "pub": "npm version patch --force && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bkpkio/prettier-config-bkpk.git"
+  },
+  "author": "Bkpk",
+  "license": "MIT"
+}
